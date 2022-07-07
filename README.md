@@ -1,6 +1,14 @@
-# phone_verification
+# E-health flutter application for diabetes .
 
-A new Flutter project.
+This is a flutter application destinated to diabetic patient to help them track their sugar and calories .
+
+![Menu simple](https://user-images.githubusercontent.com/83608212/177815600-bd7ad793-b90f-446e-b502-35d114bb6924.jpg)
+
+![Menu ouvert](https://user-images.githubusercontent.com/83608212/177815644-530f0eea-1d9e-44eb-83ef-d71026f6445f.jpg)
+
+![calories_tracker ](https://user-images.githubusercontent.com/83608212/177815676-7692ee22-d0cb-4523-9e64-eddcf4f0a734.jpg)
+
+![Auth](https://user-images.githubusercontent.com/83608212/177815726-5f99ebd4-d48d-446c-ab37-d202823c0723.jpg)
 
 ## Getting Started
 
